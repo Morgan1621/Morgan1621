@@ -1,6 +1,6 @@
 ## Que onda mae +505 👋
 
-[![My Skills](https://skillicons.dev/icons?i=cs,mysql,github,instagram,pug,visualstudio,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,visualstudio,github,cs,instagram,windows,wasm)](https://skillicons.dev)
 
 
 

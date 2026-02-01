@@ -2,7 +2,11 @@
   <span style="color: #2ecc71;"> Que onda mae +505 👋✨</span>
 </h1>
 
-https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
+<p align="center">
+  <img src="https://img.shields.io/badge/Country-Nicaragua-blue?style=flat-square" />
+  <img src="https://base-rank-github.vercel.app/rank?user=TU_USUARIO" />
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square" />
+</p>
 
 "Você tem que ser decente com aqueles que te humilham um dia"
 

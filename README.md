@@ -1,4 +1,7 @@
-## Que onda mae +505 👋
+<h1 align="center">
+  <span style="color: #2ecc71;"> Que onda mae +505 👋✨</span>
+</h1>
+
 "Você tem que ser decente com aqueles que te humilham um dia"
 
 <p align="center">

@@ -8,6 +8,8 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/:user/:repo">
 </p>
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/:user">
+
 
 "Você tem que ser decente com aqueles que te humilham um dia"
 

@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Country-Nicaragua-blue?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=Morgan1621&color=blue&style=flat-square" />
-  <img alt="GitHub License" src="https://img.shields.io/github/license/:user/:repo">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/:Morgan1621/:repo">
 </p>
 
   ![GitHub followers](https://img.shields.io/github/followers/Morgan1621)

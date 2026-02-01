@@ -8,8 +8,10 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/:user/:repo">
 </p>
 
-  ![GitHub Repo stars](https://img.shields.io/github/stars/Morgan1621/:repo)
+ 
   ![GitHub followers](https://img.shields.io/github/followers/Morgan1621)
+  ![GitHub User's stars](https://img.shields.io/github/stars/Morgan1621)
+
 
 
 "Você tem que ser decente com aqueles que te humilham um dia"

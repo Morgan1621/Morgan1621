@@ -11,8 +11,8 @@
  
   ![GitHub followers](https://img.shields.io/github/followers/Morgan1621)
   ![GitHub User's stars](https://img.shields.io/github/stars/Morgan1621)
-  .. image:: https://img.shields.io/github/sponsors/Morgan1621
-   :alt: GitHub Sponsors
+
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Morgan1621">
 
 
 

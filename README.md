@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=Morgan1621&color=blue&style=flat-square" />
 </p>
 
+![Stats de LuiisDev21](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&border_color=7ed321&text_color=ffffff&title_color=7ed321)
+
 "Você tem que ser decente com aqueles que te humilham um dia"
 
 <p align="center">

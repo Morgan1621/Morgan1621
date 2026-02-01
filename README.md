@@ -1,4 +1,5 @@
 ## Que onda mae +505 👋
+"Tienes que ser decente con el que un dia de humillo"
 
 <p align="center">
   <a href="https://skillicons.dev">

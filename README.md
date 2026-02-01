@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Country-Nicaragua-blue?style=flat-square" />
-  <img src="https://base-rank-github.vercel.app/rank?user=Morgan1621" />
   <img src="https://komarev.com/ghpvc/?username=Morgan1621&color=blue&style=flat-square" />
 </p>
 

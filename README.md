@@ -1,5 +1,5 @@
 ## Que onda mae +505 👋
-"Tienes que ser decente con el que un dia de humillo"
+"Você tem que ser decente com aqueles que te humilham um dia"
 
 <p align="center">
   <a href="https://skillicons.dev">

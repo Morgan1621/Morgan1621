@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Morgan1621&color=blue&style=flat-square" />
   <img alt="GitHub License" src="https://img.shields.io/github/license/:user/:repo">
 </p>
+
   ![GitHub followers](https://img.shields.io/github/followers/Morgan1621)
   ![GitHub User's stars](https://img.shields.io/github/stars/Morgan1621)
 

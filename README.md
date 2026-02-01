@@ -1,7 +1,10 @@
 ## Que onda mae +505 👋
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,visualstudio,github,cs,instagram,windows,wasm)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,visualstudio,cs,windows,github,instagram,vim" />
+  </a>
+</p>
 
 
 <!--

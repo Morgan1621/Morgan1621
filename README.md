@@ -5,11 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Country-Nicaragua-blue?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=Morgan1621&color=blue&style=flat-square" />
+  <img alt="GitHub License" src="https://img.shields.io/github/license/:user/:repo">
 </p>
-
-![Stats de Morgan1621](https://github-readme-stats.vercel.app/api?username=Morgan1621&show_icons=true&theme=dark&border_color=7ed321&text_color=ffffff&title_color=7ed321)
-
-<img alt="GitHub License" src="https://img.shields.io/github/license/:user/:repo">
 
 
 "Você tem que ser decente com aqueles que te humilham um dia"

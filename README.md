@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=cs,github,instagram,pug,visualstudio,windows&theme=light)](https://skillicons.dev)
+
+
+
 <!--
 **Morgan1621/Morgan1621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

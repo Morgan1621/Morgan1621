@@ -1,6 +1,11 @@
 ## Que onda mae +505 👋
 "Você tem que ser decente com aqueles que te humilham um dia"
 
+<details>
+<summary><b>Github Stats ⚡️</b></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=vision-friendly-dark" />
+</details>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,visualstudio,cs,windows,github,instagram" />

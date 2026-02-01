@@ -2,6 +2,8 @@
   <span style="color: #2ecc71;"> Que onda mae +505 👋✨</span>
 </h1>
 
+https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
+
 "Você tem que ser decente com aqueles que te humilham um dia"
 
 <p align="center">

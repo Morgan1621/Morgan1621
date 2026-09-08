@@ -26,22 +26,6 @@
 <tr border="none">
   <td width="50%" align="center">
 
-<a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=github&amp;show_avatar=true&amp;hide_border=false">
-  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=github&amp;show_avatar=true&amp;hide_border=false" />
-</a>
-  </td>
-  <td width="50%" align="center">
-  <a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=streak&amp;hide_border=false">
-  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=streak&amp;hide_border=false" />
-    
-  <a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=top-languages&amp;hide_border=false">
-  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=top-languages&amp;hide_border=false" />
-</a>
-</a>
-  </td>
-</tr>
-</table>
-
 <div align="center">
   <a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=contribution-graph&amp;hide_border=false">
   <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=contribution-graph&amp;hide_border=false" />

@@ -22,36 +22,6 @@
 </div>
 
 
-  </td>
-  <td width="100%" align="center">
-  <a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=streak&amp;hide_border=false">
-  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=streak&amp;hide_border=false" />
-    
-  <a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=top-languages&amp;hide_border=false">
-  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=top-languages&amp;hide_border=false" />
-</a>
-</a>
-  </td>
-</tr>
-</table>
-
-<p align="center">
-<table align="center">
-<tr border="none">
-  <td width="50%" align="center">
-
-<div align="center">
-  <a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=contribution-graph&amp;hide_border=false">
-  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=contribution-graph&amp;hide_border=false" />
-</a>
-</div>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tech</h2></summary>
-  </ul>
-</div>
-Próximamente JAJAJ 
-<div>
+  
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=30a14e"  />
 </div>

@@ -21,6 +21,20 @@
   </ul>
 </div>
 
+
+  </td>
+  <td width="50%" align="center">
+  <a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=streak&amp;hide_border=false">
+  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=streak&amp;hide_border=false" />
+    
+  <a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=vue&amp;card=top-languages&amp;hide_border=false">
+  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=vue&amp;card=top-languages&amp;hide_border=false" />
+</a>
+</a>
+  </td>
+</tr>
+</table>
+
 <p align="center">
 <table align="center">
 <tr border="none">

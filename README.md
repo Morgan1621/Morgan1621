@@ -21,11 +21,13 @@
   </ul>
 </div>
 
-<a href="https://gh-stats-xcards.fly.dev/?username=Morgan1621&amp;theme=modern-lilac&amp;card=level-alternate&amp;show_avatar=true&amp;hide_border=false">
-  <img alt="Morgan1621's GitHub Stats xCards" src="https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=modern-lilac&amp;card=level-alternate&amp;show_avatar=true&amp;hide_border=false" />
-</a>
+<div align="center">
+
+[![GitHub Stats](https://gh-stats-xcards.fly.dev/stats/Morgan1621?theme=modern-lilac&card=level-alternate&show_avatar=true&hide_border=false)](https://gh-stats-xcards.fly.dev/?username=Morgan1621&theme=modern-lilac&card=level-alternate&show_avatar=true&hide_border=false)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Morgan1621&theme=sakura-x&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
   
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=30a14e"  />

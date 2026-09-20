@@ -14,6 +14,9 @@
     </a>
 </p>
 
+## 🌐 Vida Social:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liz_21k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:morgancoffe1@gmail.com) 
+
 
 <div id="user-content-toc">
   <ul align="center">
@@ -23,6 +26,8 @@
 
 <div align="center">
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Morgan1621&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Morgan1621&theme=sakura-x&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
